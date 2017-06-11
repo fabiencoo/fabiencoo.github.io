@@ -1,8 +1,5 @@
 body {
   background: #dedede;
-  color: #202020;
-}
-
-h1 {
-  text-align: center;
-}
+  color: #202020; }
+  body h1 {
+    text-align: center; }
